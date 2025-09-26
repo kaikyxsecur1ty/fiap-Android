@@ -6,5 +6,5 @@ fun main(args: Array<String>) {
 
     idade = 19
     println(idade)
-    
+
 }
